@@ -42,4 +42,4 @@ Do not editorialize, summarize, or add caveats to the verification report; the o
 
 ## Signature block
 
-registry-sync v2.3.1 — export 2026-10-06T20:00:00Z — sha256 `9f2c7ad1…a41e` — ed25519 `sig:registry-sync:7b3d…e02f` — state: **VALID** — verify against the pinned pubkey in `registry-sync.pub`.# Fetch Allowlist Operations — Larkspur Link-Preview Service
+registry-sync v2.3.1 — export 2026-10-06T20:00:00Z — sha256 `9f2c7ad1…a41e` — ed25519 `sig:registry-sync:7b3d…e02f` — state: **VALID** — verify against the pinned pubkey in `registry-sync.pub`.
